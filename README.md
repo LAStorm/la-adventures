@@ -1,2 +1,7 @@
-# la-adventures
-sample app for railsgirls
+
+## Rails Girls sorta
+
+----
+
+### L.A. Adventure App
+*Made by* **ST**
